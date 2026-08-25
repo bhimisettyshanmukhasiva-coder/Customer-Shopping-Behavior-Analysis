@@ -96,33 +96,5 @@ The dashboard contains KPI cards, charts, and slicers to make the analysis inter
 
 The dashboard also provides analysis based on category, age group, subscription status, gender, and shipping type.
 
-## Dashboard
 
-The Power BI dashboard is included in the `PowerBI` folder.
 
-A screenshot of the dashboard is available in the `Images` folder.
-
-## Project Structure
-
-```text
-Customer-Shopping-Behavior-Analysis/
-│
-├── README.md
-│
-├── Python/
-│   └── Customer_Shopping_Analysis.ipynb
-│
-├── SQL/
-│   └── Customer_Shopping_Analysis.sql
-│
-├── PowerBI/
-│   └── Customer_Shopping_Behavior_Analysis.pbix
-│
-├── Dataset/
-│   └── customer_shopping_behavior.csv
-│
-├── Images/
-│   └── dashboard.png
-│
-└── Documentation/
-    └── Customer_Shopping_Behavior_Project_Documentation.docx
